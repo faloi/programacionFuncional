@@ -1,8 +1,8 @@
-### Programa
+# Programa
 - _Descripción_ de una solución a un problema, que puede _ejecutarse_ de alguna manera
 - Involucra a las personas, que escriben _texto_ para describir _ideas abstractas (denotacional)_ para ser ejecutadas por _maquinas concretas (operacional)_
 
-### Valores y expresiones
+## Valores y expresiones
 Llamamos **valores** a las entidades matemáticas abstractas con ciertas propiedades. Ejemplos: _el número dos, el valor de verdad falso_
 
 Llamamos **expresiones** a las cadenas de símbolos utilizadas para denotar (escribir, nombrar, referenciar) valores. Ejemplos: _2, (1 + 1), False, (True && False)_
@@ -15,7 +15,7 @@ Puede haber expresiones incorrectas, "mal formadas":
 - **por errores sintácticos:** se detectan con reglas sintácticas. Ejemplos: _*12, (True, ('a',)_
 - **por errores de tipo:** se detectan con reglas de asignación de tipo. Ejemplos: _(2 + False), (2 || 'a'), 4 'b'_
 
-### Funcion
+## Funcion
 Son valores especiales que representan una _transformación de datos_.
 
 Pueden entenderse desde 2 visiones distintas:

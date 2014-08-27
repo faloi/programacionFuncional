@@ -1,8 +1,8 @@
-### Tipos
+# Tipos
 
 Entendemos a los tipos como un _conjunto de valores_ que comparten _propiedades_.
 
-#### Asignación
+## Asignación
 
 ```haskell
 e :: A
